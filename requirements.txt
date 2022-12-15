@@ -1,0 +1,9 @@
+opencv-python
+fastremap
+tifffile
+numba
+natsort
+-i https://download.pytorch.org/whl/cu116
+torch
+torchvision
+torchaudio
