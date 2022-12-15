@@ -37,9 +37,11 @@ We use Sartorius kaggle competition dataset to evaluate our proposed methods. Th
 6. Download the dataset
 
    ```bash
-  kaggle competitions download -c sartorius-cell-instance-segmentation
+   kaggle competitions download -c sartorius-cell-instance-segmentation
    ```
+   
    If you run into a kaggle: command not found error, then use the following command
+   
    ```bash
    ~/.local/bin/kaggle competitions download -c sartorius-cell-instance-segmentation
    ```
